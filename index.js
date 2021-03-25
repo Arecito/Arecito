@@ -585,7 +585,7 @@ const {
   ────────────────
   〘 *BOT* 〙
   ‣ Prefijo:  *「 ${prefix} 」*
-  ‣ Yo soy: 𝕸𝖗.𝕻𝖆𝖙𝖔 -𝕭𝖔𝖙⚜️🦆
+  ‣ Yo soy: Ärëcïtö
   ‣ Conección: *Baileys*
   ‣ Tiempo encencido: *${kyun(uptime)}*
   ‣ Modo: *ON*
@@ -598,7 +598,7 @@ const {
   _${Ig}_
   ────────────────
   ┏━━━━━━━━━━━━━━━━━━━━
-  ┃─────〘 𝕸𝖗.𝕻𝖆𝖙𝖔 -𝕭𝖔𝖙⚜️🦆 〙────
+  ┃─────〘 ♤♧Ärëcïtö♧♤ 〙────
   ┃━━━━━━━━━━━━━━━━━━━━
   ┠⊷️ *${prefix}Simi (Teks)*
   ┃ _Simsimi Chat_
@@ -975,7 +975,7 @@ const {
 	uptime = process.uptime()
 	teks = `*‣ Nombre del bot* : ${me.name}
 	‣ *Número del bot* : @${me.jid.split('@')[0]}
-	‣ *Dueño* : Mr.Pato
+	‣ *Dueño* : Ärëcïtö
 	‣ *Prefijo* : ${prefix}
 	‣ *Usuarios bloqueados* : ${blocked.length}
 	‣ *Tiempo activo* : ${kyun(uptime)}
@@ -1074,7 +1074,7 @@ const {
   
   //--pencarian pinterest
 	case 'img':
-  if (!isRegister) return reply(mess.only.daftarB)
+  if (!isR_egister) return reply(mess.only.daftarB)
   
   if (args.length < 1) return reply('Ingresa lo que quieres buscar')
   tels = body.slice(5)
@@ -1146,7 +1146,7 @@ const {
   nimek = n[Math.floor(Math.random() * n.length)];
   pok = await getBuffer(nimek)
   Lxa.sendMessage(from, pok, image, {
-	quoted: mek, caption: `Mr.Pato-Bot`
+	quoted: mek, caption: `Arecito-Bot`
   })
   
   } catch {
@@ -1170,7 +1170,7 @@ const {
   nimek = n[Math.floor(Math.random() * n.length)];
   pok = await getBuffer(nimek)
   Lxa.sendMessage(from, pok, image, {
-	quoted: mek, caption: `Mr.Pato-Bot`
+	quoted: mek, caption: `Arecito`
   })
   
   } catch {
@@ -1249,7 +1249,7 @@ const {
 	nimek = n[Math.floor(Math.random() * n.length)];
 	pok = await getBuffer(nimek)
 	Lxa.sendMessage(from, pok, image, {
-  quoted: mek, caption: `Mr.Pato-Bot`
+  quoted: mek, caption: `Arecito-Bot`
 	})
 	
 	} catch {
@@ -1279,7 +1279,7 @@ const {
 	nimek = n[Math.floor(Math.random() * n.length)];
 	pok = await getBuffer(nimek)
 	Lxa.sendMessage(from, pok, image, {
-  quoted: mek, caption: `Mr.Pato-Bot`
+  quoted: mek, caption: `Arecito-Bot`
 	})
 	
 	} catch {
@@ -1305,7 +1305,7 @@ const {
 	nimek = n[Math.floor(Math.random() * n.length)];
 	pok = await getBuffer(nimek)
 	Lxa.sendMessage(from, pok, image, {
-  quoted: mek, caption: `Mr.Pato-Bot`
+  quoted: mek, caption: `Arecito-Bot`
 	})
 	
 	} catch {
@@ -1331,7 +1331,7 @@ const {
 	nimek = n[Math.floor(Math.random() * n.length)];
 	pok = await getBuffer(nimek)
 	Lxa.sendMessage(from, pok, image, {
-  quoted: mek, caption: `Mr.pato-Bot`
+  quoted: mek, caption: `Arecito-Bot`
 	})
 	
 	} catch {
